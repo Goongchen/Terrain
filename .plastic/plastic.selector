@@ -1,0 +1,4 @@
+repository "terrain@AR_VR@cloud"
+  path "/"
+    br "/main"
+    co "/main"
